@@ -10,13 +10,7 @@ At present, our app uses a model that identifies and differentiates between flow
 
 # Images of the current app
 
-![screenshot](RAKSHAK_FRONT_VIEW.jpeg)
-# 
-![screenshot](RAKSHAK_FRONT_VIEW2.jpeg)
-# 
-![screenshot](RAKSHAK_FRONT_VIEW3.jpeg)
-# 
-![screenshot](RAKSHAK_FRONT_VIEW4.jpeg)
+<img src="RAKSHAK_FRONT_VIEW.jpeg" height="400"> <img src="RAKSHAK_FRONT_VIEW2.jpeg" height="400"> <img src="RAKSHAK_FRONT_VIEW3.jpeg" height="400"> <img src="RAKSHAK_FRONT_VIEW4.jpeg" height="400">
 
 
 # How to use the App
