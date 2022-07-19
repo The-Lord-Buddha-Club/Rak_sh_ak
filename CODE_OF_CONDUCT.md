@@ -1,3 +1,5 @@
+# Contributions and Commits will always be remembered
+
 # Code for a Cause not Applause
 
 # Contributor Covenant Code of Conduct
