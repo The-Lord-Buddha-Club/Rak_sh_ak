@@ -8,6 +8,8 @@ The mobile application that we are designing is named Rak_sh_ak. It is a free ap
 The application is very user-friendly. Farmers simply need to scan the image of a diseased crop and upload it to the application. The application then analyses the image using trained models with algorithms and within seconds users will be provided with a solution.
 At present, our app uses a model that identifies and differentiates between flowers and animals. 
 
+# Images of the current app
+
 !(RAKSHAK FRONT VIEW.jpeg)
 !(RAKSHAK FRONT VIEW2.jpeg)
 !(RAKSHAK FRONT VIEW3.jpeg)
