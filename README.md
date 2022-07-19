@@ -38,14 +38,14 @@ After the identification of the disease, our application will provide the diseas
 Our application collects and stores all the previously searched images and given solutions by experts in the collection database for improvement and review purposes. The online ML model and online general solution repository will be trained every 24 hours through the image storage database and the expert solution repository respectively. Also, the offline ML model and offline general solution repository are updated every month through the collected data. This will be used to further improve the accuracy of the application.  
 
 # Modes of Contribution
-**The Consists of Seven Branches namely :-**
+**This Repository currently Consists of Seven Branches namely :-**
 
 * main :- for the people who can contribute content about the current status of the project in form of README.md
 * apps :- for contribution of apps in any framework you are familiar with specified folder
 * backend :- for the MERN stack people who can design a great backend to support the backend functionalities
 * dataset :- web scrapped or self clicked images of plant disease in disease named folders which can be used to train the model for better ML models
 * ml-model :- for ML people who can provide with ML notebooks and pickle object for the same 
-* plant-disease-remedies :- for people who can surf the internet about the plant diseases and contribute in text format 
+* plant-disease-remedies :- for people who can surf the internet about the plant diseases and contribute in text format in disease named folders
 * suggestions :- for people who can suggest what should be the future proceedings of our project and where should we take it for improvements in text format
 
 **You can contribute in any branch as per your will and skill you hold**
