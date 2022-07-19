@@ -10,10 +10,13 @@ At present, our app uses a model that identifies and differentiates between flow
 
 # Images of the current app
 
-![screenshot](RAKSHAK FRONT VIEW.jpeg)
-![screenshot](RAKSHAK FRONT VIEW2.jpeg)
-![screenshot](RAKSHAK FRONT VIEW3.jpeg)
-![screenshot](RAKSHAK FRONT VIEW4.jpeg)
+![screenshot](RAKSHAK_FRONT_VIEW.jpeg)
+# 
+![screenshot](RAKSHAK_FRONT_VIEW2.jpeg)
+# 
+![screenshot](RAKSHAK_FRONT_VIEW3.jpeg)
+# 
+![screenshot](RAKSHAK_FRONT_VIEW4.jpeg)
 
 
 # How to use the App
