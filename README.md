@@ -1,4 +1,4 @@
-# Rak_sh_ak
+# Rak_sh_ak - The Farmer's Saviour
 
 **An image detection app designed for the farmers to detect plant diseases and get information about it, just by clicking the image of the plant.**
 
