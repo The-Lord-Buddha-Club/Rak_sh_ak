@@ -4,7 +4,7 @@
 
 # About the App
 
-The mobile application that we are designing is named Rak_sh_ak. It is a free application that helps farmers to identify and eradicate a disease among their crops with a single click. In turn, this also helps to connect the farmers to Experts or Scientists who give their opinion regarding the treatment of disease. 
+The mobile application that we are designing is named Rak_sh_ak. It is a free application that helps farmers to identify and eradicate a disease among their crops with a single click. In turn, this also helps the farmers to connect with the Experts or Scientists who give their opinion regarding the treatment of disease. 
 The application is very user-friendly. Farmers simply need to scan the image of a diseased crop and upload it to the application. The application then analyses the image using trained models with algorithms and within seconds users will be provided with a solution.
 At present, our app uses a model that identifies and differentiates between flowers and animals. 
 
